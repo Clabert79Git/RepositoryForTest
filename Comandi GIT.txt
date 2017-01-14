@@ -1,0 +1,4 @@
+Comandi GIT
+
+#per creare un TAG
+git tag -a <nome tag>
